@@ -57,7 +57,7 @@ This mechanism simulates how water can be used as a conductive path to activate 
 
 - [Circuit Diagram](https://github.com/DuttPanchal04/Water-Level-Indicator/blob/main/Water%20Level%20Indicator%20Schamatic.png)
 
-*(Insert images like circuit diagrams or breadboard view here in `images/` folder)*
+![Water Level Indicator Schamatic](https://github.com/user-attachments/assets/9f2c4273-8b12-4748-a9a5-c82323e53cb0)
 
 ## ✅ Advantages
 
