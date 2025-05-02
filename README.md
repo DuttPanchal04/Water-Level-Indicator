@@ -30,6 +30,15 @@ This project demonstrates a water level indicator circuit using three BC547 tran
 | 9V Battery + Cap  | 1        |
 | Breadboard        | 1        |
 
+
+---
+
+## 📊 Circuit Diagram
+
+- [Circuit Diagram](https://github.com/DuttPanchal04/Water-Level-Indicator/blob/main/Water%20Level%20Indicator%20Schamatic.png)
+
+![Water Level Indicator Schamatic](https://github.com/user-attachments/assets/9f2c4273-8b12-4748-a9a5-c82323e53cb0)
+
 ---
 
 ## 📐 Circuit Description
@@ -50,14 +59,6 @@ This project demonstrates a water level indicator circuit using three BC547 tran
    - At full level, transistor Q3 switches the **buzzer** ON and provides an audio alert.
 
 This mechanism simulates how water can be used as a conductive path to activate transistor-based logic.
-
----
-
-## 📊 Circuit Diagram
-
-- [Circuit Diagram](https://github.com/DuttPanchal04/Water-Level-Indicator/blob/main/Water%20Level%20Indicator%20Schamatic.png)
-
-![Water Level Indicator Schamatic](https://github.com/user-attachments/assets/9f2c4273-8b12-4748-a9a5-c82323e53cb0)
 
 ## ✅ Advantages
 
